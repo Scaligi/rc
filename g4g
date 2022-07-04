@@ -7,7 +7,7 @@ else if(t=="Scaligi"){"Go check out Scaligi's favourite: "+a[2]+tag[Math.floor(M
 else if(t=="scaligi"){"Go check out Scaligi's second favourite: "+a[3]+tag[Math.floor(Math.random()*5)]";}
 else if(t=="mxryumm"||t=="_mxryumm"){"What is Maryum's favorite Go For Gold Tune? 🕷🕷🕷🤍🤍🤍";}
  
-else if(q==""||q=="#"){s+a[Math.floor(Math.random()*n)]+tag[Math.floor(Math.random()*5)];}
+else if(q==""||q=="#"){s;}
 
 else if(q=="help"){"!g4g suggests a random video from the Go For Gold AR YouTube channel | !g4g 1 - "+n+" selects a specific video | Other options include !g4g list, total, latest";}
 else if(q=="latest"||q=="new"){"Go For Gold AR video on YouTube "+a[n-1]+tag[Math.floor(Math.random()*5)];}
