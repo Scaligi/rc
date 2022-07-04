@@ -1,5 +1,5 @@
-s ="ASMR Video";
-tag =[" - Don't forget to like the video!", " - What are you waiting for? Share, share, share!", " - Go comment to feed the YouTube algorithm!", " - Have you subscribed to MatthewThings on YouTube?", " - Don't miss another video, hit that notification bell!"];
+s="I sing for a band! Go check out "
+tag =[" - Don't forget to hit that like button!", " - What are you waiting for? Share, share, share!", " - Go comment to feed that YouTube algorithm!", " - Have you subscribed to Go For Gold AR on YouTube?", " - Don't miss another video, hit that notification bell!"];
  
 boy =[185,191,194];
 chess =[77,79,87,95];
@@ -15,20 +15,20 @@ pa =[116,172,181,185,188,191,194,196];
 pokemon =[59,156,162,169];
 shorts =[88,130,137,149,189];
 
-if(t=="test"){"MatthewThings ASMR command v2.1 User="+u+", Query="+q+", Total="+n+", Random="+r+", URLfetch Successful: Database:9y3pznP6 Remote_Code:Scaligi/Remote-Code/main/MattASMR";}
+if(t=="test"){"Go For Gold YT Command v1.0 User="+u+", Query="+q+", Total="+n+", URLfetch Successful: Database:gNrAnTKD Remote_Code:Scaligi/rc/main/g4g";}
 
-else if(t=="Scaligi"){"Scaligi's favourite MatthewThings "+s+": "+a[174];}
-else if(t=="scaligi"){"Scaligi's second favourite MatthewThings "+s+": "+a[180];}
-else if(t=="mxryumm"||t=="_mxryumm"){"What is Maryum's favorite MatthewThings "+s+"? 🕷🕷🕷🤍🤍🤍";}
+else if(t=="Scaligi"){"Scaligi's favourite: "+a[174];}
+else if(t=="scaligi"){"Scaligi's second favourite: "+a[180];}
+else if(t=="mxryumm"||t=="_mxryumm"){"What is Maryum's favorite Go For Gold Tune? 🕷🕷🕷🤍🤍🤍";}
  
-else if(q==""||q=="#"){s+" suggestion for "+u+" "+a[r]+tag[Math.floor(Math.random()*5)];}
+else if(q==""||q=="#"){s+a[Math.floor(Math.random()*n)]+tag[Math.floor(Math.random()*5)];}
 
-else if(q=="help"){"!asmr suggests a random video from MatthewThings YouTube channel | !asmr 1 - "+n+" selects a specific video | Other options include !asmr latest, list, new, total, boy, chess, cne, fratbro, hair, lights, madden, minecraft, mukbang, nfl, personal attention, pokemon, shorts";}
-else if(q=="latest"||q=="new"){"My latest video on YouTube "+a[n-1]+tag[Math.floor(Math.random()*5)];}
-else if(q=="list"){"The video list database used by this command is available here: https://pastebin.com/9y3pznP6";}
-else if(q=="total"){"MatthewThings has "+[n]+" ASMR videos on his YouTube channel";} 
+else if(q=="help"){"!g4g suggests a random video from the Go For Gold AR YouTube channel | !g4g 1 - "+n+" selects a specific video | Other options include !g4g list, total, latest";}
+else if(q=="latest"||q=="new"){"Go For Gold AR video on YouTube "+a[n-1]+tag[Math.floor(Math.random()*5)];}
+else if(q=="list"){"The video list database used by this command is available here: https://pastebin.com/gNrAnTKD";}
+else if(q=="total"){"Go For Gold AR have "+[n]+" videos on their YouTube channel";} 
 
-else if(q>0&&q<=n){s+" selected by "+u+" "+a[q-1]+tag[Math.floor(Math.random()*5)];}
+else if(q>0&&q<=n){"Go For Gold video selected by "+u+" "+a[q-1]+tag[Math.floor(Math.random()*5)];}
 
 else if(q=="boy"){"Boy at the back of the class "+s+" suggestion for "+u+" "+a[boy[Math.floor(Math.random()*3)]-1]+tag[Math.floor(Math.random()*5)];}
 else if(q=="boy list"){u+" --> Boy at the back of the class ASMR video list is: "+boy;}
