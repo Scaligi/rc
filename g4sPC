@@ -1,10 +1,14 @@
-Enjoying the stream? - Subscribe and hit that notification bell 🔔;
-🐦 Twitter https://twitter.com/goforspencer;
-📷 Instagram www.instagram.com/go4spencer;
-📱 TikTok https://tiktok.com/@go4spencer;
-👉 Come Join the discord: https://discord.gg/rqffM9kGV9;
-Enjoying the stream? - Subscribe and hit that notification bell 🔔;
-🐦 Twitter https://twitter.com/goforspencer;
-📷 Instagram www.instagram.com/go4spencer;
-📱 TikTok https://tiktok.com/@go4spencer;
-👉 Come Join the discord: https://discord.gg/rqffM9kGV9
+if(q=="test"){"Go4Spencer's Promo Cycle Command v1.0 User="+u+", Query="+q+", Command Count="+cc+", Promo Number="+pn+", URLfetch Successful: Remote_Code:QCFswFze";}
+
+else if(pn=="1"){"Enjoying the stream? - Subscribe and hit that notification bell 🔔";}
+else if(pn=="2"){"🐦 Twitter https://twitter.com/goforspencer";}
+else if(pn=="3"){"📷 Instagram www.instagram.com/go4spencer";}
+else if(pn=="4"){"📱 TikTok https://tiktok.com/@go4spencer";}
+else if(pn=="5"){"👉 Come Join the discord: https://discord.gg/rqffM9kGV9";}
+else if(pn=="6"){"Enjoying the stream? - Subscribe and hit that notification bell 🔔";}
+else if(pn=="7"){"🐦 Twitter https://twitter.com/goforspencer";}
+else if(pn=="8"){"📷 Instagram www.instagram.com/go4spencer";}
+else if(pn=="9"){"📱 TikTok https://tiktok.com/@go4spencer";}
+else if(pn=="0"){"👉 Come Join the discord: https://discord.gg/rqffM9kGV9";}
+ 
+else{" --> Command Error - Scaligi Please Help!";}
