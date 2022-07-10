@@ -1,4 +1,4 @@
-if(q=="test"){"Go4Spencer's Promo Cycle Command v1.0 User="+u+", Query="+q+", Command Count="+cc+", Promo Number="+pn+", URLfetch Successful: Remote_Code:https:Scaligi/rc/main/g4sPC";}
+if(q=="test"){"Go4Spencer's Promo Cycle Command v1.0 User="+u+", Query="+q+", Command Count="+cc+", Promo Number="+pn+", URLfetch Successful: Remote_Code:/Scaligi/rc/main/g4sPC";}
 
 else if(pn=="1"){"Enjoying the stream? - Subscribe and hit that notification bell 🔔";}
 else if(pn=="2"){"🐦 Follow me on Twitter https://twitter.com/goforspencer";}
