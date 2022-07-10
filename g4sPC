@@ -1,11 +1,11 @@
 if(q=="test"){"Go4Spencer's Promo Cycle Command v1.0 User="+u+", Query="+q+", Command Count="+cc+", Promo Number="+pn+", URLfetch Successful: Remote_Code:/Scaligi/rc/main/g4sPC";}
 
-else if(pn=="1"){"Enjoying the stream? - Subscribe and hit that notification bell 🔔";}
+else if(pn=="1"){"Enjoying the stream? Subscribe and hit that notification bell 🔔";}
 else if(pn=="2"){"🐦 Follow me on Twitter https://twitter.com/goforspencer";}
 else if(pn=="3"){"📷 Follow me on Instagram www.instagram.com/go4spencer";}
 else if(pn=="4"){"📱 Follow me on TikTok https://tiktok.com/@go4spencer";}
 else if(pn=="5"){"👉 Come Join the discord: https://discord.gg/rqffM9kGV9";}
-else if(pn=="6"){"Enjoying the stream? - Subscribe and hit that notification bell 🔔";}
+else if(pn=="6"){"Enjoying the stream? Subscribe and hit that notification bell 🔔";}
 else if(pn=="7"){"🐦 Follow me on Twitter https://twitter.com/goforspencer";}
 else if(pn=="8"){"📷 Follow me on Instagram www.instagram.com/go4spencer";}
 else if(pn=="9"){"📱 Follow me on TikTok https://tiktok.com/@go4spencer";}
