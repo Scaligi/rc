@@ -2,21 +2,18 @@ title= "Cap Bailey's YouTube Gaming Promo Cycle Command";
 version= "v1.0";
 rc_url= "/Scaligi/rc/main/CapPC";
 
-twitch= "🔔 Drop a follow and turn on notifications so you don't miss the next stream";
+yt_gaming= "🔔 Welcome to Cap Bailey Gaming, my New Gaming Channel - Please subscribe then hit that notification bell so you don't miss the next stream";
 twitter= "🐦 Drop a follow on my Twitter! @CapBailey https://twitter.com/CapBailey";
-prime= "🅿 Subscribe with Amazon Prime for free! Link your accounts here https://gaming.amazon.com/intro then subscribe";
+yt_asmr= "✨ Check out my other YouTube channel - Cap Bailey ASMR www.youtube.com/CapBaileyASMR";
 instagram= "📷 Follow me on my Instagram! www.instagram.com/cap_bailey";
-bits= "💎 You can support streamers by cheering with bits www.twitch.tv/bits";
-tiktok= "📱 Follow me on TikTok - Cap Bailey ASMR www.tiktok.com/@capbaileyasmr";
-subscribe= "✅ Click here to subscribe to the channel and get ad free viewing www.twitch.tv/subs/CapBailey";
-ytsub= "🎥 Subscribe to my YouTube channel Cap Bailey ASMR www.youtube.com/CapBaileyASMR?sub_confirmation=1";
+yt_gaming_sub= "🎮 Click to subscribe to Cap Bailey Gaming www.youtube.com/CapBaileyASMR?sub_confirmation=1";
 discord= "👉 Join the Discord Server (Cap's Cult) https://discord.gg/8ZSYVfY7ff";
-youtube= "Check out my YouTube channel (Cap Bailey ASMR) www.youtube.com/CapBaileyASMR";
-
+yt_asmr_sub= "🎥 Subscribe to my YouTube channel - Cap Bailey ASMR www.youtube.com/CapBaileyASMR?sub_confirmation=1";
+tiktok= "📱 Follow me on TikTok - Cap Bailey ASMR www.tiktok.com/@capbaileyasmr";
 
 if(q=="test"){title+" "+version+" User="+u+", Query="+q+", Command Count="+cc+", Promo Number="+pn+", URLfetch Successful: Remote_Code:"+rc_url;}
 
-else if(q=="list"){"Promo Messages are: 1🔔follow | 2🐦twitter | 3🅿prime | 4📷instagram | 5💎bits | 6📱tiktiok | 7✅subscribe | 8🎥ytsub | 9👉discord | 10🎥youtube - Next in cycle is No."+[(pn*1)+1];}
+else if(q=="list"){"Promo Messages are: 1🔔YTG | 2🐦twitter | 3✨YTASMR | 4📷instagram | 5🎮YTGsub | 6👉discord | 7🎥YTASMRSub | 8📱tiktiok | 9👉discord | 10🎥youtube - Next in cycle is No."+[(pn*1)+1];}
 
 else if(q=="1"||q=="twitch"){twitch;}
 else if(q=="2"||q=="twitter"){twitter;}
